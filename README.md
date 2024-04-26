@@ -1,4 +1,4 @@
-<h1>Techno:</h1>h1>
+<h1>Techno:</h1>
 <h2>Front-End:</h2>
 <ul>
   <li>React-2-bullshit.Js</li>
